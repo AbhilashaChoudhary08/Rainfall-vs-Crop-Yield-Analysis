@@ -1,0 +1,138 @@
+{
+  "Assam": {
+    "Total Production": 3637714928,
+    "Avg Rainfall": 2095.066160908338
+  },
+  "Karnataka": {
+    "Total Production": 63772797366,
+    "Avg Rainfall": 1181.8384998910592
+  },
+  "Kerala": {
+    "Total Production": 129700649853,
+    "Avg Rainfall": 2877.6054307116046
+  },
+  "Meghalaya": {
+    "Total Production": 16516629,
+    "Avg Rainfall": 4043.080340362088
+  },
+  "West Bengal": {
+    "Total Production": 8941179120,
+    "Avg Rainfall": 1721.6231261425883
+  },
+  "Puducherry": {
+    "Total Production": 493815573,
+    "Avg Rainfall": 1432.7104477612024
+  },
+  "Goa": {
+    "Total Production": 2193998349,
+    "Avg Rainfall": 3352.6262749593543
+  },
+  "Andhra Pradesh": {
+    "Total Production": 26076218605,
+    "Avg Rainfall": 916.3822274881453
+  },
+  "Tamil Nadu": {
+    "Total Production": 78051759253,
+    "Avg Rainfall": 931.1608272506094
+  },
+  "Odisha": {
+    "Total Production": 194080325,
+    "Avg Rainfall": 1445.2794736842134
+  },
+  "Bihar": {
+    "Total Production": 544953534,
+    "Avg Rainfall": 1163.2137276785645
+  },
+  "Gujarat": {
+    "Total Production": 807581678,
+    "Avg Rainfall": 784.7979192166475
+  },
+  "Madhya Pradesh": {
+    "Total Production": 834490323,
+    "Avg Rainfall": 1003.3482840236612
+  },
+  "Maharashtra": {
+    "Total Production": 1878564915,
+    "Avg Rainfall": 1176.1957792402611
+  },
+  "Mizoram": {
+    "Total Production": 2769208,
+    "Avg Rainfall": 2435.7578343485643
+  },
+  "Punjab": {
+    "Total Production": 781551409,
+    "Avg Rainfall": 508.9617128463489
+  },
+  "Uttar Pradesh": {
+    "Total Production": 4442585302,
+    "Avg Rainfall": 758.2734545454553
+  },
+  "Haryana": {
+    "Total Production": 589739640,
+    "Avg Rainfall": 466.91307448542176
+  },
+  "Himachal Pradesh": {
+    "Total Production": 32297151,
+    "Avg Rainfall": 1147.4862012986957
+  },
+  "Tripura": {
+    "Total Production": 16952054,
+    "Avg Rainfall": 2302.7659657845898
+  },
+  "Nagaland": {
+    "Total Production": 18748702,
+    "Avg Rainfall": 1545.5507322641563
+  },
+  "Chhattisgarh": {
+    "Total Production": 143096606,
+    "Avg Rainfall": 1267.0461202185859
+  },
+  "Uttarakhand": {
+    "Total Production": 179697348,
+    "Avg Rainfall": 1422.9021852905782
+  },
+  "Jharkhand": {
+    "Total Production": 43793850,
+    "Avg Rainfall": 1183.1722222222243
+  },
+  "Delhi": {
+    "Total Production": 2666022,
+    "Avg Rainfall": 632.9032467512312
+  },
+  "Manipur": {
+    "Total Production": 18764635,
+    "Avg Rainfall": 1546.946085394144
+  },
+  "Jammu and Kashmir": {
+    "Total Production": 30298377,
+    "Avg Rainfall": 1191.7721077654546
+  },
+  "Telangana": {
+    "Total Production": 147700034,
+    "Avg Rainfall": 996.245591939547
+  },
+  "Arunachal Pradesh": {
+    "Total Production": 9522010,
+    "Avg Rainfall": 2609.7499999999955
+  },
+  "Sikkim": {
+    "Total Production": 2744927,
+    "Avg Rainfall": 2570.3352976814135
+  },
+  "rajasthan": {
+    "Total Production": 24000000,
+    "Avg Rainfall": 500
+  },
+  "orissa": {
+    "Total Production": 18000000,
+    "Avg Rainfall": 1450
+  },
+  "himachal pradesh": {
+    "Total Production": 1800000,
+    "Avg Rainfall": 1250
+  },
+  "uttaranchal": {
+    "Total Production": 1800000,
+    "Avg Rainfall": 1550
+  }
+}
