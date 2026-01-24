@@ -1,2 +1,2 @@
 # Rainfall-vs-Crop-Yield-Analysis
-Data visualization project analyzing the relationship between rainfall patterns and crop yield using Python (Pandas, Matplotlib, Seaborn) and an interactive Tableau dashboard.
+This project analyzes the relationship between rainfall patterns and crop yield using Python-based data analysis and visualization techniques, along with an interactive Tableau dashboard. The objective is to understand how variations in rainfall influence agricultural productivity over different states of India and to present insights through clear and effective visualizations.
