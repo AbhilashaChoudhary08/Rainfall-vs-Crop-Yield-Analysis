@@ -67,11 +67,7 @@ The project includes:
 
 ---
   ##  How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Rainfall-vs-Crop-Yield-Analysis.git
-2. Install required Python libraries:
-   ```bash
-   pip install -r requirements.txt
+1. Clone the repository.
+2. Install required Python libraries.
 3. Open the Jupyter Notebook from the notebooks/ folder and run the cells sequentially.
 
